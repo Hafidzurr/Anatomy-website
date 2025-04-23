@@ -1,0 +1,199 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3628,
+      "max": [
+        1.5493870973587036,
+        0.019595608115196228,
+        5.39296817779541
+      ],
+      "min": [
+        -1.5493870973587036,
+        -3.0349671840667725,
+        -0.0014322232455015182
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 43536,
+      "componentType": 5126,
+      "count": 3628,
+      "max": [
+        0.9997090101242065,
+        1.0,
+        0.999999463558197
+      ],
+      "min": [
+        -0.9997089505195618,
+        -0.9999311566352844,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 21756,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Weekend (https://sketchfab.com/Weekend)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/nose-example-8822-bcef843f2ff6485caa68e9526296c768",
+      "title": "Nose example 8/8/22"
+    },
+    "generator": "Sketchfab-13.74.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 87024,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 87072,
+      "byteOffset": 87024,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 174096,
+      "uri": "nose1.bin"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Material.002",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.522405,
+          0.354791,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8737325495569759
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Retopo_Cube_Material.002_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.03999999910593033,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        8.881783998477905e-18,
+        -0.03999999910593033,
+        0.0,
+        0.0,
+        0.03999999910593033,
+        8.881783998477905e-18,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "a77120b1520e460f9ff6435783e26b82.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Retopo_Cube"
+    },
+    {
+      "mesh": 0,
+      "name": "Retopo_Cube_Material.002_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
